@@ -27,9 +27,3 @@ User-agent: *
 <<<<<<< master
 =======
 dsds
-s
-# robotstxt.org/
-
-User-agent: *
->>>>>>> commit3
-dsds
