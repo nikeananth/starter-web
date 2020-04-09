@@ -24,4 +24,12 @@ User-agent: *
 dsds# robotstxt.org/
 
 User-agent: *
+<<<<<<< master
+=======
+dsds
+s
+# robotstxt.org/
+
+User-agent: *
+>>>>>>> commit3
 dsds
